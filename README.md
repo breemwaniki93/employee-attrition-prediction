@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Employee Attrition Prediction
 Problem Statement
 
@@ -48,3 +49,7 @@ Collect real-world HR data.
 Experiment with Random Forest and XGBoost.
 Deploy the model using Streamlit.
 Build an interactive HR dashboard.
+=======
+# employee-attrition-prediction
+A machine learning project that predicts employee attrition using Logistic Regression and Decision Tree classifiers.
+>>>>>>> be0e8e912470e54a331e09d298c581ec6189b519
